@@ -1,0 +1,4 @@
+OverallQual,YearBuilt,YearRemodAdd,ExterQual,BsmtQual,TotalBsmtSF,GrLivArea,FullBath,KitchenQual,GarageCars,Predicted_SalePrice
+7,2001,2002,3,3,1145,2198,2,3,2,251840.69
+6,1998,1999,2,2,1040,1760,2,2,1,177129.38
+8,2005,2006,4,3,1500,2500,3,4,3,383136.9

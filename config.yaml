@@ -1,0 +1,17 @@
+paths:
+  model: "model.joblib"
+  inference_data: "data/inference/inference_data.csv"
+  output_predictions: "data/predictions/predictions.csv"
+  logs: "logs/inference.log"
+
+validation:
+  OverallQual: [1, 10]
+  YearBuilt: [1872, 2010]
+  YearRemodAdd: [1950, 2010]
+  ExterQual: [1, 4]
+  BsmtQual: [-1, 4]
+  TotalBsmtSF: [0, 6110]
+  GrLivArea: [334, 5642]
+  FullBath: [0, 3]
+  KitchenQual: [1, 4]
+  GarageCars: [0, 4]
